@@ -1,1 +1,3 @@
 # enoch
+print  
+read
